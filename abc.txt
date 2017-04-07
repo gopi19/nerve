@@ -1,2 +1,4 @@
 This is the text file
 which I am working on
+
+I am adding another line here
