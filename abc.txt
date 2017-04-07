@@ -7,3 +7,6 @@ We are doing to check the -v feature for commit
 
 
 After dev master gets update
+
+After the rebase I am adding this line in dev
+
